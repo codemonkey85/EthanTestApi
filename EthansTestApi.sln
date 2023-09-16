@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EthansTestApi", "EthansTestApi\EthansTestApi.csproj", "{02D9896F-941A-4E7D-84AB-88896717FFFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F0E0DAC0-C8EC-41AE-99F6-2C51B06D147E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D9896F-941A-4E7D-84AB-88896717FFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D9896F-941A-4E7D-84AB-88896717FFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D9896F-941A-4E7D-84AB-88896717FFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D9896F-941A-4E7D-84AB-88896717FFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2444A9-FE06-4AA2-8304-ACD7DFFFED42}
+	EndGlobalSection
+EndGlobal
